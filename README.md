@@ -23,7 +23,8 @@
 
 
 ## <picture><img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50px"></picture> About me
-<picture><img align="right" src="https://cdn-icons-png.flaticon.com/512/1055/1055688.png" width="250px"></picture>
+<picture><img align="right" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="250px"></picture>
+
 
 
 - All about me is at **[Portfolio](https://subhan-portfolio-react.netlify.app/)**
