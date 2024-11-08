@@ -1,6 +1,6 @@
 <p align="center" style="margin: 0; padding: 0;">
     <img  src="https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif" 
-         style="width: 70%; height: 300px; object-fit: cover;"/>
+         style="width: 100%; height: 300px; object-fit: cover;"/>
 </p>
 
 
