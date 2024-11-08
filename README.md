@@ -156,14 +156,15 @@
   </p>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhan-ahmed&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhan-ahmed&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhan-ahmed&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhan-ahmed&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhan-ahmed&theme=2077&utcOffset=6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhanrizwan&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhanrizwan&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhanrizwan&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhanrizwan&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhanrizwan&theme=2077&utcOffset=6)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-ahmed&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/subhan-ahmed/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanrizwan&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/subhanrizwan/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=subhan-ahmed&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=subhanrizwan&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=subhan-ahmed&theme=dracula)](https://github.com/subhan-ahmed/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=subhanrizwan&theme=dracula)](https://github.com/subhanrizwan/github-profile-trophy)
+
