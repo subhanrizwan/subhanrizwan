@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-repository-link-to-image/banner-image.png](https://steamuserimages-a.akamaihd.net/ugc/857230201753722931/43EEB0D0155D4FA92048CCB3A6B7E61A8426D30A/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true)" height="200" />
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/857230201753722931/43EEB0D0155D4FA92048CCB3A6B7E61A8426D30A/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" height="200" />
 </p>
 
 
