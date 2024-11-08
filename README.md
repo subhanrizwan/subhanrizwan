@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://www.thesun.co.uk/wp-content/uploads/2023/07/EB_HACKER_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1" height="250" width="100%" />
+<p align="center" style="margin: 0; padding: 0;">
+    <img src="https://www.thesun.co.uk/wp-content/uploads/2023/07/EB_HACKER_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1" 
+         style="width: 100%; height: auto; object-fit: cover;"/>
 </p>
+
 
 
 <h3 align="center"> 
