@@ -99,28 +99,7 @@
 <br />
 
 
-<div align="center">
-<h3><picture> <img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/CP_PS.gif?raw=true" width = 50px></picture>
-Competitive Programming & Problem Solving
-<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/colaborate.gif" width="60">
-</h3>
-<p align="center">
-    &emsp;
-    <a href="https://codeforces.com/profile/md_mafujul_hasan"><img alt = "Codeforces" src="https://img.shields.io/badge/CodeForces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="https://leetcode.com/mhtonmoy13/"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="https://www.hackerrank.com/MD_MAFUJUL_HASAN"><img alt = "Hackerrank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=black" /></a>
-  &emsp;
-    <a href="https://www.codechef.com/users/mdtonmoy13mt"><img alt = "CodeChef" src="https://img.shields.io/badge/Codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="https://www.codingame.com/profile/2af5543c0875d0997d62b93d9d5d1a9b6922535"><img alt = "Codin Game" src="https://img.shields.io/badge/CodinGame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-  &emsp;
-    <a href="https://www.codewars.com/users/MD-MAFUJUL-HASAN"><img alt = "Codewars" src="https://img.shields.io/badge/CodeWars-%232EC866.svg?&style=plastic&logo=CodeWars&logoColor=black" /></a>
-  &emsp;
-    <a href="https://www.hackerearth.com/@mdtonmoy13.mt"><img alt = "HackerEarth" src="https://img.shields.io/badge/HackerEarth%20-%1F891FCB.svg?&style=plastic&logo=HackerEarth&logoColor=white" /></a>
-</p></div>
-<br />
+
 
 <div align="center">
 <h3> Tech Stack
