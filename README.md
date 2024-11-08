@@ -1,23 +1,34 @@
-# 💫 About Me:
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+<h1 align="center">Hi 👋, I'm Subhan Ahmed</h1>
+<h3 align="center">A passionate frontend developer from pakistan</h3>
+<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/857230201753722931/43EEB0D0155D4FA92048CCB3A6B7E61A8426D30A/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true">
 
-<br>Here’s the updated version with new, varied icons to give it a fresh look:<br><br>About Me<br>🌟 Hi there! I'm a passionate Front-End Developer with a strong foundation in web technologies. I specialize in building responsive, user-friendly web applications that deliver seamless experiences.<br><br>🔧 Skills:<br><br>Front-End: HTML, CSS, JavaScript, React, Tailwind, Bootstrap<br>Databases: MongoDB, MySQL<br>Tools: GitHub, Visual Studio Code, Postman<br>📚 I'm always learning and exploring new technologies to enhance my skills and build the best solutions.<br><br>💬 Let’s connect! Feel free to reach out for collaboration, sharing ideas, or discussing tech.<br><br>Fun Fact<br>🎮 When I'm not coding, you’ll find me experimenting with new frameworks or diving into open-source projects. I believe in continuous learning, and I’m always looking for ways to improve my problem-solving skills.<br><br>🌱 I also enjoy collaborating with other developers to exchange ideas and contribute to community-driven projects. I believe that learning and growing together is key to improving as a developer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanrizwan&label=Profile%20views&color=0e75b6&style=flat" alt="subhanrizwan" /> </p>
 
-## 🌐 Socials:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanrizwan" alt="subhanrizwan" /></a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhanahmed1/)
+- 🌱 I’m currently learning **REACT JS, NODE JS,MONGODB**
 
-# 💻 Tech Stack:
+- 👨‍💻 All of my projects are available at [https://subhan-portfolio-react.netlify.app/](https://subhan-portfolio-react.netlify.app/)
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+- 💬 Ask me about **MERN**
 
-# 📊 GitHub Stats:
+- 📫 How to reach me **developersubhanahmed@gmail.com**
 
-![](https://github-readme-stats.vercel.app/api?username=subhanrizwan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=subhanrizwan&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanrizwan&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 📄 Know about my experiences [https://subhan-portfolio-react.netlify.app/assets/subhan-BXsF9zZp.pdf](https://subhan-portfolio-react.netlify.app/assets/subhan-BXsF9zZp.pdf)
 
----
+- ⚡ Fun fact **🎮 When I'm not coding, you’ll find me experimenting with new frameworks or diving into open-source projects. I believe in continuous learning, and I’m always looking for ways to improve my problem-solving skills. 🌱 I also enjoy collaborating with other developers to exchange ideas and contribute to community-driven projects. I believe that learning and growing together is key to improving as a developer.**
 
-[![](https://visitcount.itsvg.in/api?id=subhanrizwan&icon=7&color=3)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/subhanahmed1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhanahmed1/" height="30" width="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhanrizwan&show_icons=true&locale=en&layout=compact" alt="subhanrizwan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhanrizwan&show_icons=true&locale=en" alt="subhanrizwan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhanrizwan&" alt="subhanrizwan" /></p>
