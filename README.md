@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0; padding: 0;">
-    <img src="https://www.thesun.co.uk/wp-content/uploads/2023/07/EB_HACKER_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1" 
+    <img src="[https://www.thesun.co.uk/wp-content/uploads/2023/07/EB_HACKER_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1](https://i.pinimg.com/originals/9e/5c/77/9e5c77872f818509afc1766a86c9a68b.gif)" 
          style="width: 70%; height: 300px; object-fit: cover;"/>
 </p>
 
