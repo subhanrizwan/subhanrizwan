@@ -4,9 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin-left: 15px;" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanrizwan&label=Profile%20views&color=0e75b6&style=flat" alt="subhanrizwan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanrizwan" alt="subhanrizwan" /></a> </p>
 
 - 🌱 I’m currently learning **REACT JS, NODE JS, MONGODB**
 
