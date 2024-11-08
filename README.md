@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/857230201753722931/43EEB0D0155D4FA92048CCB3A6B7E61A8426D30A/?imw=512&amp;imh=384&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" height="200" />
+  <img src="https://www.thesun.co.uk/wp-content/uploads/2023/07/EB_HACKER_OP.jpg?strip=all&quality=100&w=1920&h=1080&crop=1" height="200" />
 </p>
 
 
