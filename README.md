@@ -1,5 +1,5 @@
-<p align="center" style="margin: 0; padding: 0;">
-    <img  src="src="https://github.com/user-attachments/assets/3e6cdcfb-e7e5-4362-aa53-898cd5194c0c"
+  <p align="center" style="margin: 0; padding: 0;">
+    <img  src="C:\Users\maaz.ali\Downloads\subhan-portfolio-ss.png" 
          style="width: 150%; height: 300px; object-fit: cover;"/>
 </p>
 
