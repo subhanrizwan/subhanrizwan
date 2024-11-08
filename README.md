@@ -152,9 +152,10 @@
 <div align="center">
   <h3 align="center">Visitor's count :eyes:</h3>
   <p align="center">
-    <img src="https://profile-counter.glitch.me/{0_My_Template}/count.svg" alt="0_My_Template :: Visitor's Count" />
+    <img src="https://profile-counter.glitch.me/subhanrizwan/count.svg" alt="subhanrizwan :: Visitor's Count" />
   </p>
 </div>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhanrizwan&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhanrizwan&theme=2077)
