@@ -131,7 +131,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhanrizwan&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhanrizwan&theme=2077&utcOffset=6)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanrizwan&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/subhanrizwan/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanrizwan&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/subhanrizwan/github-readme-stats)\
 [![GitHub Streak](https://streak-stats.demolab.com?user=subhanrizwan&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
