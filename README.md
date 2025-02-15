@@ -33,7 +33,7 @@
 
 - My name is `Subhan Ahmed`, and I am a frontend developer with expertise in `HTML, CSS, JavaScript, ReactJS, Bootstrap, and TailwindCSS`.
 
-- I am proficient in programming languages and frameworks such as ` Java, NodeJS, and Express`.
+- I am proficient in programming languages and frameworks such as ` Java, Node JS, and Express JS`.
 
 - I also have experience working with databases like `MySQL and Firebase`.
 
