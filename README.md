@@ -29,7 +29,7 @@
 
 
 
-- All about me is at **[Portfolio](https://subhan-portfolio-react.netlify.app/)**
+- All about me is at **[Portfolio](https://subhanahmed.netlify.app/)**
 
 - My name is `Subhan Ahmed`, and I am a frontend developer with expertise in `HTML, CSS, JavaScript, ReactJS, Bootstrap, and TailwindCSS`.
 
