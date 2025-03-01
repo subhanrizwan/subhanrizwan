@@ -3,10 +3,6 @@
          style="width: 150%; height: 300px; object-fit: cover;"/>
 </p>
 
-
-
-
-
 <h3 align="center"> 
     <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/hello.gif" width="21"></a> Hi, I'm Subhan Ahmed! A passionate Web Developer from Pakistan <img align="center" alt="GIF" width="30"  src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="36"/>
 </h3>
@@ -21,13 +17,11 @@
     &emsp;
     <a href="https://github.com/subhanrizwan/subhanrizwan" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/subhanrizwan/subhanrizwan?label=Profile%20update&style=fflat-square"></a>
     &emsp;
-</p> 
-
+</p>
 
 ## <picture><img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50px"></picture> About me
+
 <picture><img align="right" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="250px"></picture>
-
-
 
 - All about me is at **[Portfolio](https://subhanahmed.netlify.app/)**
 
@@ -47,8 +41,6 @@
 
 - All of my projects are available at <a href="https://github.com/subhanrizwan/" target="_blank"><img src="https://img.shields.io/badge/Github-008080"></a>
 
-
-
 <div align="center">
 <h3> 
     <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/bar.gif" width="30" height="30" style="margin-right: 10px;">
@@ -66,9 +58,6 @@
 </div>
 <br />
 
-
-
-
 <div align="center">
 <h3> Tech Stack
 <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="60">
@@ -80,50 +69,57 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+     </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
+     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+       </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">\
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      </a>
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      </a>
+          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+          <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </a>
+      <a href="https://postman.com" target="_blank" rel="noreferrer">
+       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+       </a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
-    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Atmel_AVR_logo.png" alt="assembly" width="40" height="40"/>
-    </a>
 </p>
 </div>
 
- 
 <div align="center">
   <h3 align="center">Visitor's count :eyes:</h3>
   <p align="center">
     <img src="https://profile-counter.glitch.me/subhanrizwan/count.svg" alt="subhanrizwan :: Visitor's Count" />
   </p>
 </div>
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhanrizwan&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhanrizwan&theme=2077)
@@ -133,4 +129,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhanrizwan&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/subhanrizwan/github-readme-stats)\
 [![GitHub Streak](https://streak-stats.demolab.com?user=subhanrizwan&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
