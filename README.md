@@ -23,11 +23,11 @@
 
 <picture><img align="right" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif" width="250px"></picture>
 
-- All about me is at **[Portfolio](https://subhanahmed.netlify.app/)**
+- All about me is at **[Portfolio](https://builtbysubhan.netlify.app/)**
 
 - My name is `Subhan Ahmed`, and I am a frontend developer with expertise in `HTML, CSS, JavaScript, ReactJS, Bootstrap, and TailwindCSS`.
 
-- I am proficient in programming languages and frameworks such as ` Java, Node JS, and Express JS`.
+- I am proficient in programming languages and frameworks such as ` Node JS, and Express JS`.
 
 - I also have experience working with databases like `MySQL and Firebase`.
 
