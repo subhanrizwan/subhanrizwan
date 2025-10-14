@@ -25,7 +25,7 @@
 
 - All about me is at **[Portfolio](https://builtbysubhan.netlify.app/)**
 
-- My name is `Subhan Ahmed`, and I am a Web developer with expertise in `HTML, CSS,Wordpress, JavaScript, ReactJS, Bootstrap, and TailwindCSS`.
+- My name is `Subhan Ahmed`, and I am a Web developer with expertise in `HTML, CSS, Wordpress, JavaScript, ReactJS, Bootstrap, and TailwindCSS`.
 
 - I am proficient in programming languages and frameworks such as ` Node JS, and Express JS`.
 
