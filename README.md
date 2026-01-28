@@ -63,9 +63,6 @@
 <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="60">
 </h3>
 <style>
-  .tech_logo{
-    background-color:white;
-    }
     p img {
         margin-right:10px;
     }
