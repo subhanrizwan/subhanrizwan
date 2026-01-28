@@ -62,11 +62,6 @@
 <h3> Tech Stack
 <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Developer.gif" width="60">
 </h3>
-<style>
-    p img {
-        margin-right:10px;
-    }
-</style>
 <p class="tech_logo" align="center">
     <a href="" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
